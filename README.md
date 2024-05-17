@@ -24,6 +24,7 @@ Click on the browse button. This opens up a library browser from which you can s
 After you complete the add instance form move your cursor to the schematic window and click left to place a component. LIBRARY NAME CELL NAME gpdk045 PMOS gpdk045 NMOS
 This is a table of components for building the inverter schematic.
 After entering components, click cancel in the add instance form or press ESC with your cursor in the schematic window.
+![image](https://github.com/Dhiva-22/VLSI-LAB-EXP-6/assets/161815121/963c9f2b-7e69-4ff3-94a4-3b9dc12db424)
 
 
 
@@ -50,6 +51,7 @@ Click the wire (narrow) icon and wire your schematic.
 Click create wire name or press c to name the i/p (vsin) and output wires as in below schematic.
 Click on the check and save icon to save the design.
 
+![image](https://github.com/Dhiva-22/VLSI-LAB-EXP-6/assets/161815121/98c0bbff-0647-4cb5-9c01-40f724accf50)
 
 
 ## ANALOG SIMULATION WITH SPECTRA: Starting the simulation environment:
@@ -71,6 +73,7 @@ Running the simulation:
 Execute the simulation Netlist and run in the simulation window to start the simulation on the icon. This will create the netlist as well as run the simulation.
 When the simulation finishes the transient and DC plots automatically will be popped up along with netlist.
 
+![image](https://github.com/Dhiva-22/VLSI-LAB-EXP-6/assets/161815121/313c479d-a9f4-42d0-87d4-226826928de9)
 
 
 
@@ -79,28 +82,34 @@ When the simulation finishes the transient and DC plots automatically will be po
 
 ## NAND SCHEMATIC
 
+![image](https://github.com/Dhiva-22/VLSI-LAB-EXP-6/assets/161815121/b1155804-8f6d-499f-bbdf-6cd929e31288)
 
 
 ## NAND TEST CELL VIEW
 
+![image](https://github.com/Dhiva-22/VLSI-LAB-EXP-6/assets/161815121/30602559-f737-4877-8228-b9140454a67f)
 
 
 ## NAND SIMULATION WITH SPECTRA
 
+![image](https://github.com/Dhiva-22/VLSI-LAB-EXP-6/assets/161815121/76c5e518-e4db-485e-ad58-afb9f8282e24)
 
 
 # CMOS NOR GATE
 
 ## NOR SCHEMATIC
+![image](https://github.com/Dhiva-22/VLSI-LAB-EXP-6/assets/161815121/f45b17ab-83b1-4400-9e1d-27990dd068b5)
 
 
 
 
 ## NOR TEST CELL VIEW
 
+![image](https://github.com/Dhiva-22/VLSI-LAB-EXP-6/assets/161815121/2333ef87-9c84-4f43-b939-d6bbe497fe08)
 
 
 ## NOR SIMULATION WITH SPECTRA
+![image](https://github.com/Dhiva-22/VLSI-LAB-EXP-6/assets/161815121/d64f32cd-a54e-4f39-9915-7057ee06b90d)
 
 
 

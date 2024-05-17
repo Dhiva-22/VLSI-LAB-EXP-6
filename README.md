@@ -72,6 +72,7 @@ Running the simulation:
 
 Execute the simulation Netlist and run in the simulation window to start the simulation on the icon. This will create the netlist as well as run the simulation.
 When the simulation finishes the transient and DC plots automatically will be popped up along with netlist.
+![image](https://github.com/Dhiva-22/VLSI-LAB-EXP-6/assets/161815121/369ec686-e52b-4037-b512-5be998ca650c)
 
 ![image](https://github.com/Dhiva-22/VLSI-LAB-EXP-6/assets/161815121/313c479d-a9f4-42d0-87d4-226826928de9)
 
